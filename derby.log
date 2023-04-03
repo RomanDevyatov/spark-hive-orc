@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Mar 15 01:09:02 MSK 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0186-e22b-6a7f-00000a4ce260 
+on database directory C:\_Work_GitHub_\SDP\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2cdf8d8a 
+Loaded from file:/C:/_Work_GitHub_/SDP/target/libs/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.11+9-LTS-194
+user.dir=C:\_Work_GitHub_\SDP
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
